@@ -1,5 +1,5 @@
 # Game-Check
-● 게임 커뮤니티 사이트로서 자신이 추천하고 싶은 
+● 게임은 하고 싶으나 하고싶은 게임을 정하지 못하는 사람들이 모여서 게임을 공유하고 소통하는 커뮤니티 사이트
 
 # 시연 링크
 ● https://jwh-gamechek-project.web.app
@@ -10,6 +10,7 @@
 <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 <br> ![Html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 <br> ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+<br> ![styld-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
 ### 개발관리
